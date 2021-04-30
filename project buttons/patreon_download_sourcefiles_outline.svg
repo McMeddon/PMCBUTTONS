@@ -2,7 +2,7 @@
 	<title>patreon download Sourcefiles</title>
 	<style>
 		tspan { white-space:pre }
-		.shp0 { fill: #141518 } 
+		.shp0 { fill: none;stroke: #141518;stroke-width: 3.4 } 
 		.shp1 { fill: #ff424d } 
 	</style>
 	<path id="Shape 1" class="shp0" d="M5 0L313 0C315.76 0 318 2.23 318 5L318 37C318 39.76 315.76 42 313 42L5 42C2.23 42 0 39.76 0 37L0 5C0 2.23 2.23 0 5 0Z" />
